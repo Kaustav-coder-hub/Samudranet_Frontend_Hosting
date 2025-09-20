@@ -1,0 +1,31 @@
+/* API Docs Styles */
+.api-docs {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: white;
+  color: #333;
+}
+
+.api-docs code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+  background-color: #f5f5f5;
+  border: 1px solid #e5e5e5;
+  border-radius: 3px;
+}
+
+.api-docs .method-get {
+  background-color: #22c55e;
+}
+
+.api-docs .method-post {
+  background-color: #3b82f6;
+}
+
+.api-docs .method-put {
+  background-color: #f59e0b;
+}
+
+.api-docs .method-delete {
+  background-color: #ef4444;
+}
